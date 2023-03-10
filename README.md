@@ -2,7 +2,7 @@
 ## Data Science | Photography | Minimalism
 
 > I am currently studying Data Science at the [University of Auckland](https://www.auckland.ac.nz). <br>
-> ![University of Auckland]("https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png")
+> ![University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png)
 
 
 
