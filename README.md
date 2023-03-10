@@ -2,8 +2,9 @@
 ## Data Science | Photography | Minimalism
 
 > I am currently studying Data Science at the [University of Auckland](https://www.auckland.ac.nz). <br>
+> ![University of Auckland]("https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png")
 
------------------
+
 
 ### 🖧 Data Science
 I would like to develop my knowledge and skills in the following areas: <br>
@@ -11,15 +12,11 @@ I would like to develop my knowledge and skills in the following areas: <br>
 2. **Mathmatics and statistcal modelling**
 3. **AI and machine learning**
 
-----------------
-
 ### 📷 Photography
 I am interested in the following type of photography:
 * _Street photography_
 * _Black and white photography_
 * _Event photography_
-
---------------------
 
 ### 🖤 Minimalism
 I am currently in the process of transition from consumerism to a simple lifestyle.
