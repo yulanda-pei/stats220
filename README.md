@@ -21,3 +21,6 @@ I am interested in the following type of photography:
 ### 🖤 Minimalism
 I am currently in the process of transition from consumerism to a simple lifestyle.
 
+By the way, Jackson Yee is my favourite actor! 🖤🖤🖤
+![](https://wx4.sinaimg.cn/orj360/006VJhk2ly1h38u2qnsgxj30xc14nqv5.jpg)
+
